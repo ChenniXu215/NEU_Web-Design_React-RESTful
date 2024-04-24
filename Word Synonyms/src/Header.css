@@ -1,0 +1,22 @@
+header {
+    padding: 1rem;
+
+    background-color: #333;
+    color: #fff;
+
+    text-align: center;
+}
+
+.header-menu {
+    padding: 1rem;
+
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+
+    list-style: none;
+}
+
+.submenu-link {
+    color: #C7C7FF;
+}
